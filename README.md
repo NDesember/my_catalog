@@ -9,10 +9,9 @@
 
 ## Навыки и технологии
 - Инструменты анализа данных: ``SQL``, ``Excel``: 
-- Языки программирования и библиотеки: ``Python``, ``Pandas``, ``math`` 
+- Языки программирования и библиотеки: ``Python``
 - Системы управления базами данных: ``MySQL``, ``PostgreSQL``
 - Средства визуализации данных: ``PowerBi``, ``Matplotlib``, ``seaborn``
-- Инструменты для машинного обучения: ``scikit-learn``, ``TensorFlow``
 
 
 
@@ -143,5 +142,4 @@
 
 ## Контактная информация
 - Email: name@email.com
-- LinkedIn: https://www.linkedin.com/in/username/
-- Личный сайт: https://www.username.com
+
